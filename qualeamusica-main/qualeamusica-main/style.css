@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    padding: 300px;
+    background-image: url("https://media.istockphoto.com/id/1097357132/pt/vetorial/golden-music-notes-background.jpg?s=612x612&w=0&k=20&c=dcRDiA3Vtv7jcRoZhguiTBv7DTFVpUPuGm5LvphhI_8=");
+    background-size: 100%;
+    background-attachment:fixed;
+    
+  }
+
+ 
+  
+  h1 {
+    text-align: center;
+  }
+  
+  audio {
+    width: 100%;
+  }
+  
+  input {
+    width: 50%;
+    margin: 10px 299px;
+  }
+  
+  button {
+    width: 50%;
+    margin: 10px 300px;
+    color: rgb(242, 237, 237);
+    background-color: black;
+    margin-top: 150px;
+
+  }
+  .hidden{
+    display: none;
+  }
+  
